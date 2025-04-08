@@ -4,7 +4,7 @@ const cors = require("cors");
 const dotenv = require("dotenv");
 const app = express();
 const cookieParser = require("cookie-parser")
-const PORT = 12345
+const PORT = 3000
 
 app.use(express.json()); // <- Parses Json data
 app.use(express.urlencoded({ extended: true, limit: "500mb" })); // <- Parses URLencoded data
@@ -29,3 +29,5 @@ app.get("/", (req, res) => res.send("Express on Vercel, Icons generator app"));
 app.listen(PORT, () => {
 	console.log(`Server is running on port ${PORT}`);
 });
+
+module.exports = app;
