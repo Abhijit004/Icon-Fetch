@@ -3,7 +3,7 @@ Just trying to create a vercel serverless backend which could generate technolog
 
 ## How to use?
 ```
-https://tech-icons.vercel.app/api/v1?size=50&icon=the_icon_name&size=the_size_you_need
+https://tech-icons.vercel.app/api/v1?icon=icon_name&size=size_you_need
 ```
 
 ## Demo
@@ -36,3 +36,6 @@ https://tech-icons.vercel.app/api/v1?size=50&icon=the_icon_name&size=the_size_yo
 | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=tailwindcss)<br/>`tailwindcss` | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=threejs)<br/>`threejs`      | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=tinyhttp)<br/>`tinyhttp` | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=tRPC)<br/>`tRPC`           | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=typescript)<br/>`typescript`    | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=ubuntu)<br/>`ubuntu`         | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=unjs)<br/>`unjs`  | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=ur)<br/>`ur`     | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=vim)<br/>`vim`     | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=visualbasic)<br/>`visualbasic` |
 | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=vitejs)<br/>`vitejs` | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=vitest)<br/>`vitest`       | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=vscode)<br/>`vscode`   | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=vuejs)<br/>`vuejs`          | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=webassembly)<br/>`webassembly`   | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=webpack)<br/>`webpack`        | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=wordpress)<br/>`wordpress` | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=xamarin)<br/>`xamarin` | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=xd)<br/>`xd`      | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=yoga)<br/>`yoga`    |
 | ![](https://tech-icons.vercel.app/api/v1?size=50&icon=zod)<br/>`zod`    |                |              |                    |                   |                    |           |             |             |             |
+
+## Resources
+Icons taken from [this figma file](https://www.figma.com/community/file/1095337897898466786/tech-stack-icons-design-stack-icons).
