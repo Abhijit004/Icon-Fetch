@@ -1,7 +1,5 @@
-// server.js or dev.js (optional local entry point)
-const app = require("./app");
+const app = require("../app");
 const PORT = 3000;
+const serverless = require('serverless-http');
 
-app.listen(PORT, () => {
-  console.log(`Server running at http://localhost:${PORT}`);
-});
+module.exports.handler = serverless(app);
