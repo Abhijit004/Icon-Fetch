@@ -13,11 +13,11 @@ exports.generateSVG = (iconName) => {
         //         ${iconCode}
         //         <span style="font-family: monospace; font-size: 60px; color: #fff;text-transform: uppercase">${iconName.toLowerCase()}</span>
         //     </div>
-        // `;
+        const starter = `<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="#000">`;
 
-        const template = iconCode.replace(`width="100"`, `width="50"`).replace(`height="100"`, `height="50"`);
+        const res = iconCode.replace(/<svg[^>]*>/, starter);
 
-        return template;
+        return res;
     } catch (err) {
         console.error(`Error generating SVG for ${iconName}:`, err);
         return `<div style="color: red;">Icon "${iconName}" not found.</div>`;
