@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-exports.generateSVG = (iconName) => {
+exports.generateSVG = (iconName, size) => {
     try {
         // Read the SVG file contents as string
         const svgPath = path.join(__dirname, `../TechIcons/${iconName.toLowerCase()}.svg`);
@@ -13,7 +13,7 @@ exports.generateSVG = (iconName) => {
         //         ${iconCode}
         //         <span style="font-family: monospace; font-size: 60px; color: #fff;text-transform: uppercase">${iconName.toLowerCase()}</span>
         //     </div>
-        const starter = `<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="#000">`;
+        const starter = `<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="#000" transform="scale(${size/100})">`;
 
         const res = iconCode.replace(/<svg[^>]*>/, starter);
 
