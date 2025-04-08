@@ -24,6 +24,7 @@ const iconRouter = require("./routes/iconRoutes");
 
 // setting Routes
 app.use("/icon/v1/", iconRouter);
+app.get("/", (req, res) => res.send("Express on Vercel, Icons generator app"));
 
 app.listen(PORT, () => {
 	console.log(`Server is running on port ${PORT}`);
