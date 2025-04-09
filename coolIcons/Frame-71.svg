@@ -1,0 +1,11 @@
+<svg width="95" height="95" viewBox="0 0 95 95" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1.20813" y="1.35169" width="92.736" height="92.736" rx="13.44" fill="url(#paint0_radial_1024_11494)"/>
+<rect x="1.20813" y="1.35169" width="92.736" height="92.736" rx="13.44" stroke="#6886C3" stroke-width="1.344"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M76.8078 56.1191L62.1078 64.5191V47.7191L47.4078 39.2267L62.1078 30.9191L76.8078 39.3191V56.1191ZM47.4057 39.3191L32.7057 47.7191V30.9191L18.0078 22.5191L32.7078 14.1191L47.4057 22.5191V39.3191ZM47.4057 72.9191L32.7057 81.3191L32.7078 64.5191L18.0078 56.1191L32.7057 47.7191L47.4057 56.1191V72.9191Z" fill="white"/>
+<defs>
+<radialGradient id="paint0_radial_1024_11494" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(47.5761 47.7197) rotate(90) scale(47.04)">
+<stop stop-color="#333944"/>
+<stop offset="1" stop-color="#222428"/>
+</radialGradient>
+</defs>
+</svg>

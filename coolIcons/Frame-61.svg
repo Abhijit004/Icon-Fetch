@@ -1,0 +1,16 @@
+<svg width="95" height="96" viewBox="0 0 95 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1.04016" y="1.64075" width="92.736" height="92.736" rx="13.44" fill="url(#paint0_radial_1024_11484)"/>
+<rect x="1.04016" y="1.64075" width="92.736" height="92.736" rx="13.44" stroke="#6886C3" stroke-width="1.344"/>
+<path d="M77.0934 14.4082L71.6952 74.8812L47.4303 81.6082L23.2323 74.8907L17.8398 14.4082H77.0934Z" fill="#264DE4"/>
+<path d="M67.075 71.0324L71.6881 19.3555H47.4678V76.4683L67.075 71.0324Z" fill="#2965F1"/>
+<path d="M30.2021 41.7891L30.867 49.2069H47.4669V41.7891H30.2021Z" fill="#EBEBEB"/>
+<path d="M47.4678 26.7734H47.4422H28.8672L29.5415 34.1914H47.4678V26.7734Z" fill="#EBEBEB"/>
+<path d="M47.4667 68.7681V61.0503L47.4342 61.059L39.1728 58.8282L38.6447 52.9121H34.6303H31.1982L32.2375 64.5593L47.4326 68.7776L47.4667 68.7681Z" fill="#EBEBEB"/>
+<path d="M56.5748 49.2053L55.7137 58.8258L47.4404 61.0589V68.7763L62.6476 64.5616L62.7591 63.3084L64.5023 43.7794L64.6833 41.7875L66.0224 26.7734H47.4404V34.1914H57.893L57.2181 41.7875H47.4404V49.2053H56.5748Z" fill="white"/>
+<defs>
+<radialGradient id="paint0_radial_1024_11484" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(47.4082 48.0088) rotate(90) scale(47.04)">
+<stop stop-color="#333944"/>
+<stop offset="1" stop-color="#222428"/>
+</radialGradient>
+</defs>
+</svg>
